@@ -1,4 +1,4 @@
-This is a simple Python script takes any `.pcap` (or `.pcapng`) file, analyses it with **tshark** to find IP conversations, performs a reverse lookup of all the IP addresses in the Shodan database and writes the main findings to a `.csv` file.
+This is a simple Python script that takes any `.pcap` (or `.pcapng`) file, analyses it with **tshark** to find IP conversations, performs a reverse lookup of all the IP addresses in the Shodan database and writes the main findings to a `.csv` file.
 
 To use it, run the following command in your terminal/command prompt, where the **input_file** is the name of the pcap file and the **output_file** is the name you want to assign to your output file. Include the file extensions for best results.
 
