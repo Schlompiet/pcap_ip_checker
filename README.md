@@ -12,6 +12,8 @@ or
 python3 pcap_ip_checker.py [input_file].pcap [output_file].csv
 ```
 
-Dependencies: Python
-The Python package installer [pip](https://pypi.org/project/pip/)
-Python regex module (listed in `requirements.txt` and installed with pip)
+Dependencies: 
+* Python
+* The Python package installer [pip](https://pypi.org/project/pip/)
+* Python regex module (listed in `requirements.txt` and installed with pip)
+* A valid Shodan API key
